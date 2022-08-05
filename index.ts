@@ -1,6 +1,8 @@
 'use strict';
 
+import { writeFileSync } from "fs";
+
 var theme = require('jsonresume-theme-eloquent-mod');
 
 var resume = require('./resume.json');
-process.stdout.write(theme.render(resume));
+writeFileSync('./index.html', theme.render(resume));
