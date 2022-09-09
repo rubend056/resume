@@ -8,7 +8,7 @@
     "email": "rubend@anty.dev",
     "phone": "(305) 496-3554",
     "url": "https://github.com/rubend056",
-    "summary": "Full-stack engineering lead with 5+ years' experience in full-stack, and embedded device software with Javascript/Node and C++ respectively; most notably:\n\nLed architecture of full-stack insurance platform to serve hundreds of agents and customers worldwide.\n\nDesigned embedded software/hardware with >90% efficiency for gas quality company.",
+    "summary": "Engineer since birth, experience in full-stack, and embedded device software with web/embedded languages; most notably:\n\nLed architecture of full-stack insurance platform to serve hundreds of agents.\n\nDesigned embedded software/hardware with >90% efficiency for gas quality company.",
     "location": {
       "address": "1310 S Douglas Road",
       "postalCode": "FL 33134",
@@ -29,26 +29,26 @@
       "name": "DLS Insurance",
       "location": "Aventura, FL",
       "description": "Insurance Broker Company",
-      "position": "Lead full-stack engineer",
+      "position": "Core Tech Engineer",
       "url": "https://www.dlsinsurancegroup.com/",
       "startDate": "2020-12-01",
       "summary": "Web broker insurance agency",
       "highlights": [
-        "Key member of team that leads the approval process for Direct Enrollment by CMS (governmental insurance marketplace agency)"
+        "Key member of team that's spearheading the approval process for Direct Enrollment by CMS (government insurance agency)"
       ]
     }
   ],
   "education": [
     {
       "institution": "Florida International University",
-      "url": "https://www.fiu.edu/",
-      "area": "Computer Engineering",
+      "url": "https://fiu.edu/",
+      "area": "Computer Engineer",
       "studyType": "Bachelor",
       "startDate": "2018-08-01"
     },
     {
       "institution": "Ferguson High School",
-      "url": "https://www.fergusonhs.org/",
+      "url": "https://fergusonhs.org/",
       "area": "International Baccalaureate",
       "studyType": "HS/IB Diploma",
       "startDate": "2014-08-01",
@@ -106,14 +106,15 @@
       "name": "Database Software",
       "level": "Mid-Level",
       "keywords": [
-        "PostgreSQL"
+        "PostgreSQL","CouchDB"
       ]
     },
     {
       "name": "Operating System",
       "level": "Master",
       "keywords": [
-        "Linux by Linus",
+        "Arch Linux x86/arm64",
+	"LFS/RedoxOS (working on it)",
         "Windows 2044"
       ]
     },
@@ -126,7 +127,6 @@
         "Unity (Game Engine)"
       ]
     }
-    
   ],
   "languages": [
     {
@@ -139,19 +139,18 @@
     }
   ],
   "interests": [
-	  {
+    {
       "name": "Efficient Lifestyle",
       "keywords": [
-        "Create my own services",
+        "Create my own services (Talebox)",
         "Value Purchasing"
       ]
     },
-  	{
+    {
       "name": "Cooking",
       "keywords": [
         "Grains: Buckwheat, Rice, ...",
-        "Planning to get a dough-maker",
-        "Bought 50lbs of rice, 20lbs something of flour"
+        "Maybe a dough-maker? (moving that dough really takes work)"
       ]
     },
     {
@@ -189,7 +188,7 @@
         "Photography",
         "Full-stack"
       ],
-    	"roles": [
+      "roles": [
         "CEO"
       ],
       "entity": "SkySandal",
