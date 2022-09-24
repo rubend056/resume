@@ -8,7 +8,7 @@
     "email": "rubend@anty.dev",
     "phone": "(305) 496-3554",
     "url": "https://github.com/rubend056",
-    "summary": "Engineer since birth, experience in full-stack, and embedded device software with web/embedded languages; most notably:\n\nLed architecture of full-stack insurance platform to serve hundreds of agents.\n\nDesigned embedded software/hardware with >90% efficiency for gas quality company.",
+    "summary": "Full-stack, and embedded device software/hardware work; most notably:\n\nLed architecture of insurance platform to serve hundreds of agents.\n\nDesigned embedded platform for gas quality company.",
     "location": {
       "address": "1310 S Douglas Road",
       "postalCode": "FL 33134",
@@ -28,13 +28,13 @@
     {
       "name": "DLS Insurance",
       "location": "Aventura, FL",
-      "description": "Insurance Broker Company",
-      "position": "Core Tech Engineer",
+      "description": "Insurance Broker",
+      "position": "Engineer",
       "url": "https://www.dlsinsurancegroup.com/",
       "startDate": "2020-12-01",
-      "summary": "Web broker insurance agency",
+      "summary": "Insurance Agency",
       "highlights": [
-        "Key member of team that's spearheading the approval process for Direct Enrollment by CMS (government insurance agency)"
+        "Spearheading approval process for DE (Direct Enrollment) by CMS (government insurance agency)"
       ]
     }
   ],
@@ -57,12 +57,6 @@
     }
   ],
   "awards": [
-    {
-      "title": "Promotion",
-      "date": "2022-03-14",
-      "awarder": "DLS Insurance",
-      "summary": "You've earned it!"
-    },
     {
       "title": "SkySandal First Order",
       "date": "2020-10-22",
