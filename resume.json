@@ -26,23 +26,17 @@
     {
       "name": "DLS Insurance",
       "location": "Aventura, FL",
-      "description": "Insurance Broker Company",
-      "position": "Lead full-stack engineer",
+      "description": "Insurance Broker",
+      "position": "Engineer",
       "url": "https://www.dlsinsurancegroup.com/",
       "startDate": "2020-12-01",
-      "summary": "Web broker insurance agency",
+      "summary": "Insurance Agency",
       "highlights": [
-        "Key member of team that leads the approval process for Direct Enrollment by CMS (governmental insurance marketplace agency)"
+        "Spearheading approval process for DE (Direct Enrollment) by CMS (government insurance agency)"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "Promotion",
-      "date": "2022-03-14",
-      "awarder": "DLS Insurance",
-      "summary": "You've earned it!"
-    },
     {
       "title": "SkySandal First Order",
       "date": "2020-10-22",
@@ -86,14 +80,15 @@
       "name": "Database Software",
       "level": "Mid-Level",
       "keywords": [
-        "PostgreSQL"
+        "PostgreSQL","CouchDB"
       ]
     },
     {
       "name": "Operating System",
       "level": "Master",
       "keywords": [
-        "Linux by Linus",
+        "Arch Linux x86/arm64",
+	"LFS/RedoxOS (working on it)",
         "Windows 2044"
       ]
     },
@@ -106,7 +101,6 @@
         "Unity (Game Engine)"
       ]
     }
-    
   ],
   "languages": [
     {
@@ -119,10 +113,10 @@
     }
   ],
   "interests": [
-	  {
+    {
       "name": "Efficient Lifestyle",
       "keywords": [
-        "Create my own services",
+        "Create my own services (Talebox)",
         "Value Purchasing"
       ]
     },
