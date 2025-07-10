@@ -8,7 +8,7 @@
 		"email": "rubend@anty.dev",
 		"phone": "+1 (305) 496-3554",
 		"url": "https://github.com/rubend056",
-		"summary": "Full-stack engineer with 5+ years experience in full-stack (JS/Node/Rust), and embedded programming (C++/Rust); most notably:\n\nLed architecture of full-stack insurance platform to serve hundreds of agents and customers worldwide.\n\nDesigned embedded software/hardware with >90% efficiency for gas quality company.\n\nAlways encouraged myself to side-projects and self-improvement to foster creativity and fulfillment.",
+		"summary": "Full-Stack & Embedded Engineer — 10 + years\n\nKey stacks: JavaScript/Node, Svelte, C++, Rust\n\n- Insurance-broker platform - architected and shipped a full-stack web system used daily by 300 + agents; exhaustive client-side + server-side input validation and led DevOps migration from a managed SaaS host to a containerized IaaS stack for greater reliability and control.\n- Talebox.dev - built an offline-first “personal cloud” that syncs across devices with zero external servers.\n- SAMN PCBs - designed a family of AVR-based boards plus Rust/C++ firmware for distributed sensor-actuator networks.\n\nBelieve in-depth knowledge about deterministic systems (and damn good error handling 🐛) is crucial to receive expected results.\n\nWill always encourage myself to side-projects for self-improvement, creativity, and fulfillment.",
 		"profiles": [
 			{
 				"network": "Github",
@@ -32,16 +32,8 @@
 			"startDate": "2020-12-01",
 			"summary": "Insurance Agency",
 			"highlights": [
-				"Spearheading approval process for DE (Direct Enrollment) by CMS (government insurance agency)"
+				"Design and implementation of systems for approval for EDE (Enhanced Direct Enrollment) by CMS (government insurance agency)"
 			]
-		}
-	],
-	"awards": [
-		{
-			"title": "SkySandal First Order",
-			"date": "2020-10-22",
-			"awarder": "SkySandal",
-			"summary": "My business' first order!"
 		}
 	],
 	"skills": [
@@ -118,32 +110,47 @@
 	],
 	"interests": [
 		{
-			"name": "Efficient Lifestyle",
-			"keywords": [
-				"Create my own services (Talebox)",
-				"Value Purchasing"
-			]
-		},
-		{
 			"name": "MCU Architectures",
 			"keywords": [
 				"AVR",
-				"ARM",
-				"x86"
+				"ARM"
 			]
-		}
-	],
-	"references": [
-		{
-			"name": "Rafael A. Lugioyo",
-			"reference": "It is my pleasure to recommend Ruben, his performance creating our in-house agent portal has wowed us all. He'd be an invaluable addition to any company."
 		}
 	],
 	"projects": [
 		{
+			"name": "Greenhouse",
+			"description": "Wide spectrum lights (including UVA)",
+			"highlights": [
+				"Research into current cost efficient LED's with most effective light spectrum for plant growth.",
+				"Designing pcb's (also) from ground up and getting them fabbed (again) in JLC with availble components.",
+				"For v2 pcbs I was considering other fab houses and pick and place solution since import duties were substantial."
+			],
+			"roles": [
+				"Creator"
+			],
+			"entity": "Greenhouse",
+			"type": "application"
+		},
+		{
+			"name": "Samn",
+			"description": "A network of sensors AVR based, with nrf24 & cc1101 radios for 2.4GHz/915MHz control.",
+			"url": "https://samn.talebox.dev",
+			"highlights": [
+				"Designing pcb's from ground up and getting them fabbed in JLC with availble components. About 2 weeks of sleepless nights.",
+				"Testing pcb's functionality and designing the software and UI for Node / HQ (Talebox) & Svelte UI all simultaneously. About a month.",
+				"Currently still debugging tablebox's thread locking up after a very specific kind of message from rf nodes. Deployed with debugging info waitng to debug with gdb."
+			],
+			"roles": [
+				"Creator"
+			],
+			"entity": "Samn",
+			"type": "application"
+		},
+		{
 			"name": "Talebox",
 			"description": "A collection of self-hosted, simple, and rock solid services.",
-			"url": "https://talebox.anty.dev",
+			"url": "https://talebox.dev",
 			"startDate": "2022-10-07",
 			"keywords": [
 				"Rust",
@@ -151,19 +158,17 @@
 				"Philosophy"
 			],
 			"roles": [
-				"Owner"
+				"Creator"
 			],
 			"entity": "Talebox",
 			"type": "application"
 		},
 		{
 			"name": "SkySandal",
-			"description": "A sandal store I created with AngularJs and Firebase (Summer Project)",
+			"description": "Store website using AngularJs + Firebase",
 			"highlights": [
-				"An insanely involved process, from learning Angular/Firebase and creating the website, to then taking professional photos of sandals and editing them. To then checking out with a custom Stripe Payments Integration to the email received with the billing information. Then printing the billing info and shipping the sandal.",
-				"Built by me, for me.",
-				"Using my sweat and tears",
-				"Dare you to make an order. You won't get a sandal so I'll refund you, just contact me."
+				"An insanely involved process, from learning Angular/Firebase and creating the website, then taking professional photos of the product. To then checking out with a custom Stripe Payments Integration to the email received with the billing information. Then printing the billing info and shipping the sandal.",
+				"Note: in retrospect this wasn't worth the effort at all."
 			],
 			"url": "https://sandals-f66c3.web.app",
 			"startDate": "2020-06-12",
@@ -176,7 +181,7 @@
 				"Full-stack"
 			],
 			"roles": [
-				"Owner"
+				"Creator"
 			],
 			"entity": "SkySandal",
 			"type": "application"
