@@ -11,13 +11,8 @@
 
   <style>
     {{> css}}
-      .profile-item .info {
-          left: unset;
-          /*padding-right: unset;*/
-          display: inline-block;
-      }
       .profile-item .icon {
-          display: inline-block;
+          position:initial;
       }
   </style>
 
@@ -73,6 +68,9 @@
                   <a href="tel:{{scramblePhone phone}}" data-scrambled-phone-link>
                     <span class="icon text-muted"><i aria-hidden="true" class="icon-lg icon-phone"></i></span>
                     <span class="info" data-scrambled-phone-text>{{obfuscateText phone}}</span>
+                    {{#if phone_comment}}
+                      <span style="margin-left: 8px;">{{phone_comment}}</span>
+                    {{/if}}
                   </a>
                 </li>
               {{/if}}
