@@ -5,6 +5,7 @@
 		"label": "Full-Stack & Embedded Engineer",
 		"email": "rubend@anty.dev",
 		"phone": "+1 (305) 496-3554",
+		"phone_comment": "(Initial contact through SMS)",
 		"url": "https://github.com/rubend056",
 		"summary": "Embedded-first full-stack engineer who designs PCBs (KiCad), fabs & brings up AVR boards, writes Rust/C++ firmware, and ships the control UIs in Svelte.\n\nBuilt a distributed sensor/actuator network (nRF24 & CC1101) and an offline-first “personal cloud” (Talebox) with real-time sync + content management. Comfortable moving between the bench, gdb, and the browser;\n\nShipped and maintain a production insurance-broker platform with rigorous validation.\n\nBelieve in-depth knowledge about deterministic systems -and damn good error handling 🐛- is crucial to receive expected results.; I keep that edge sharp through side projects that fuel learning, creativity, and fulfillment.",
 		"profiles": [
